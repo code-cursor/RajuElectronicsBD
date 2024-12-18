@@ -143,37 +143,37 @@ ul{
     top: 5px;
 }
 /*-- RajuElectronics top banner main wrapper Start --*/
-.RajuElectronics_top_banner_wrapper{
+.try_top_banner_wrapper{
 	float:left;
 	width:100%;
 	position:relative;
 	padding-top:40px;
 	background:#f9f9f9;
 }
-.RajuElectronics_top_side_img{
+.try_top_side_img{
 	position:absolute;
 	top:0;
 	right:0;
 }
-.RajuElectronics_logo_wrapper{
+.try_logo_wrapper{
 	float:left;
 	width:100%;
 }
-.RajuElectronics_top_login_wrapper{
+.try_top_login_wrapper{
 	float:left;
 	width:100%;
 }
-.RajuElectronics_top_login_wrapper ul{
+.try_top_login_wrapper ul{
 	float:right;
 }
-.RajuElectronics_top_login_wrapper li{
+.try_top_login_wrapper li{
 	float:left;
 	margin-right:10px;
 }
-.RajuElectronics_top_login_wrapper li:last-child{
+.try_top_login_wrapper li:last-child{
 	margin-right:0;
 }
-.RajuElectronics_top_login_wrapper li:first-child a{
+.try_top_login_wrapper li:first-child a{
 	color:#ffffff;
 	width:190px;
 	height:50px;
@@ -186,9 +186,9 @@ ul{
     border-radius: 50px;
 }
 
-.RajuElectronics_top_login_wrapper li:last-child a{
+.try_top_login_wrapper li:last-child a{
 	color:#000000;
-	width: 230px;
+	width:180px;
 	height:50px;
 	text-align:center;
 	line-height:46px;
@@ -204,7 +204,7 @@ ul{
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_top_login_wrapper li:last-child a:hover{
+.try_top_login_wrapper li:last-child a:hover{
 	border:2px solid #ffffff;
 	color:#ffffff;
 	background:transparent;
@@ -214,8 +214,8 @@ ul{
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-/*-- RajuElectronics top banner main wrapper End --*/
-/*-- RajuElectronics top Slider main wrapper Start --*/
+/*-- try top banner main wrapper End --*/
+/*-- try top Slider main wrapper Start --*/
 /*-- SliderNTimer css Start --*/
 .ss_addver_slider_wrapper{
 	float:left;
@@ -245,7 +245,25 @@ width:100%;
   min-height:820px;
   position:relative;
 }
-.RajuElectronics_slider_img_Wrapper{
+/* .slider-area .carousel-inner .item .caption-4 {
+width:100%;
+  height:100%;
+  min-height:820px;
+  position:relative;
+}
+.slider-area .carousel-inner .item .caption-5 {
+width:100%;
+  height:100%;
+  min-height:820px;
+  position:relative;
+}
+.slider-area .carousel-inner .item .caption-6 {
+width:100%;
+  height:100%;
+  min-height:820px;
+  position:relative;
+} */
+.try_slider_img_Wrapper{
 	 float:left;
 	 width:100%;
 	 position:absolute;
@@ -372,24 +390,24 @@ width:100%;
 	position:relative;
 	animation-delay: 1.5s;
 }
-.RajuElectronics_slider_list li:first-child{
+.try_slider_list li:first-child{
 	animation-delay: 1.7s;
 }
-.RajuElectronics_slider_list li:nth-child(2){
+.try_slider_list li:nth-child(2){
 	animation-delay: 1.9s;
 }
-.RajuElectronics_slider_list li:last-child{
+.try_slider_list li:last-child{
 	animation-delay: 2.1s;
 }
-.RajuElectronics_slider_list ul{
+.try_slider_list ul{
 	margin-top:20px;
 }
-.RajuElectronics_slider_list li{
+.try_slider_list li{
 	float:left;
 	margin-right:40px;
 	position:relative;
 }
-.RajuElectronics_slider_list li:nth-child(2):after{
+.try_slider_list li:nth-child(2):after{
 	content: '';
     border: 1px solid #fff;
     height: 17px;
@@ -399,33 +417,28 @@ width:100%;
     top: 4px;
 	opacity:0.8;
 }
-.RajuElectronics_slider_list li a{
+.try_slider_list li a{
 	font-size:18px;
 	color: #fff;
 	font-family: 'Poppins';
 }
-.RajuElectronics_slider_list li span{
-	font-size:14px;
-	color: rgb(241, 218, 2);
-	font-family: 'Poppins';
-}
-.RajuElectronics_slider_list li a i{
+.try_slider_list li a i{
 	color:#fff;
 }
-.RajuElectronics_slider_btn{
+.try_slider_btn{
 	float:left;
 	width:100%;
 	margin-top:30px;
 }
-.RajuElectronics_slider_btn li{
+.try_slider_btn li{
 	float:left;
 	margin-right:20px;
 }
-.RajuElectronics_slider_btn li:last-child{
+.try_slider_btn li:last-child{
 	margin-right:0;
 }
 
-.RajuElectronics_slider_btn li:first-child a{
+.try_slider_btn li:first-child a{
 	float:left;
 	width:180px;
 	height:50px;
@@ -445,7 +458,7 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_slider_btn li:first-child a:hover{
+.try_slider_btn li:first-child a:hover{
 	background: transparent;
 	color:#fff;
 	border:2px solid #ffffff;
@@ -455,15 +468,15 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_slider_btn li:last-child a{
+.try_slider_btn li:last-child a{
 	float:left;
 	width:180px;
 	height:50px;
 	line-height:45px;
 	text-align:center;
-	background:#e5e5e5;
-	color:#039931;
-	border:2px solid transparent;
+	background:#fff8d0;
+	color:#00bb54;
+	border:1px solid #00bb54;
 	    -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     border-radius: 50px;
@@ -473,7 +486,7 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_slider_btn li:last-child a:hover{
+.try_slider_btn li:last-child a:hover{
 	background: transparent;
 	color:#fff;
 	border:2px solid #fff;
@@ -484,16 +497,16 @@ width:100%;
     transition: all 0.5s;
 
 }
-.RajuElectronics_slider_list{
+.try_slider_list{
 	margin-top:20px;
 }
-.RajuElectronics_slider_btn li:first-child{
+.try_slider_btn li:first-child{
 	animation-delay: 2.9s !important;
 }
-.RajuElectronics_slider_btn li:last-child{
+.try_slider_btn li:last-child{
 	animation-delay: 3.5s !important;
 }
-.RajuElectronics_circle_first{
+.try_circle_first{
 	position: absolute;
     left: 0;
 	top:-70px;
@@ -501,25 +514,25 @@ width:100%;
     animation: movebounce 2.5s linear infinite;
 }
 
-.RajuElectronics_circle_second{
+.try_circle_second{
 	 position: absolute;
     right: -30px;
    bottom: -240px;
 	-webkit-animation: movebounce 2.5s linear infinite;
     animation: movebounce 2.5s linear infinite;
 }
-.RajuElectronics_circle_third{
+.try_circle_third{
 	position: absolute;
     left: 100px;
 	 margin-top: 520px;
 	 -webkit-animation: movebounce 2.5s linear infinite;
     animation: movebounce 2.5s linear infinite;
 }
-.RajuElectronics_slider_img_Wrapper{
+.try_slider_img_Wrapper{
 	-webkit-animation: moveleftbounce 3.1s linear infinite;
     animation: moveleftbounce 3.1s linear infinite;
 }
-.RajuElectronics_circle_four{
+.try_circle_four{
 	position: absolute;
     left: 100px;
 	 margin-top: 420px;
@@ -541,11 +554,11 @@ width:100%;
   100% {
     transform: translateX(0px); } }
 #clockdiv,#clockdiv2,#clockdiv3,#clockdiv4,#clockdiv5{
-  background: #fff;
+  background: #ffffff63;
     display: inline-block;
+    text-align: center;
     font-size: 14px;
-    padding: 25px;
-    padding-top: 35px;
+    padding: 10px;
     text-transform: uppercase;
     width: 370px;
     -webkit-border-radius: 10px;
@@ -565,7 +578,7 @@ width:100%;
 	font-size:44px;
 	font-weight:300;
 	padding-bottom:10px;
-}	
+}
 /*-- RajuElectronics top Slider main wrapper End --*/ 
 .features-sec{
 	float:left;
@@ -601,8 +614,7 @@ width:100%;
    
 }
 /******------RajuElectronics Slider banner Start------********/
-.RajuElectronics_banner_slider_wrapper{
-	margin-top: 150px;
+.try_banner_slider_wrapper{
 	float:left;
 	width:100%;
 	background:url('../images/content/about_bg.jpg') 50% 0 repeat-y;
@@ -610,30 +622,30 @@ width:100%;
 	background-size:cover;
 	position:relative;
 }
-.RajuElectronics_banner_slider_inner_wrapper{
+.try_banner_slider_inner_wrapper{
 	float:left;
 	width:100%;
 	position:relative;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .caption-1 {
+.try_banner_slider_inner_wrapper .carousel-inner .item .caption-1 {
   width:100%;
   height:100%;
   min-height:700px;
   position:relative;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .caption-2 {
+.try_banner_slider_inner_wrapper .carousel-inner .item .caption-2 {
 width:100%;
   height:100%;
   min-height:700px;
   position:relative;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .caption-3 {
+.try_banner_slider_inner_wrapper .carousel-inner .item .caption-3 {
 width:100%;
   height:100%;
   min-height:700px;
   position:relative;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content {
+.try_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content {
   display: block;
   position: relative;
   z-index: 999;
@@ -641,7 +653,7 @@ width:100%;
   vertical-align: middle;
       top: 160px;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content_tabs{
+.try_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content_tabs{
 	display: block;
   position: relative;
   z-index: 999;
@@ -649,23 +661,75 @@ width:100%;
   vertical-align: middle;
   padding-top:140px;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-indicators{
+.try_banner_slider_inner_wrapper .carousel-indicators{
 	bottom: 100px;
     left: 40px;
 	display:none;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content li{
+.try_banner_slider_inner_wrapper .carousel-inner .item .carousel-captions .content li{
 	animation-delay: 3.2s;
 }
-
-.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation{
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li { */
+  /* text-indent: 0; */
+  /* position: relative; */
+  /* width: 10px; */
+  /* height: 10px; */
+  /* background-color: transparent; */
+  /* display: inline-block; */
+  /* border: none; */
+  /* border-radius: 0; */
+  /* cursor: pointer; */
+  /* font-size: 16px; */
+  /* margin: 0; */
+  /* color: #fff; */
+  /* font-family: "Poppins", sans-serif; */
+  /* text-align: left; */
+  /* background: #e3e3e3; */
+  /* margin-top:10px; */
+      /* -webkit-border-radius: 100%; */
+    /* -moz-border-radius: 100%; */
+    /* border-radius: 100%; */
+/* } */
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li span.number { */
+  /* display: inline-block; */
+/* } */
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li span.con { */
+  /* display: inline-block; */
+  /* position: relative; */
+  /* padding-left: 42px; */
+/* } */
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li span.con:after { */
+  /* content: ''; */
+  /* position: absolute; */
+  /* left: 0; */
+  /* top: 50%; */
+  /* height: 1px; */
+  /* background: #cf9c67; */
+  /* width: 26px; */
+/* } */
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li.active { */
+  /* background: rgba(91,44,208,1); */
+	/* background: -moz-linear-gradient(-45deg, rgba(91,44,208,1) 0%, rgba(83,98,215,1) 100%); */
+	/* background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(91,44,208,1)), color-stop(100%, rgba(83,98,215,1))); */
+	/* background: -webkit-linear-gradient(-45deg, rgba(91,44,208,1) 0%, rgba(83,98,215,1) 100%); */
+	/* background: -o-linear-gradient(-45deg, rgba(91,44,208,1) 0%, rgba(83,98,215,1) 100%); */
+	/* background: -ms-linear-gradient(-45deg, rgba(91,44,208,1) 0%, rgba(83,98,215,1) 100%); */
+	/* background: linear-gradient(135deg, rgba(91,44,208,1) 0%, rgba(83,98,215,1) 100%); */
+	/* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b2cd0', endColorstr='#5362d7', GradientType=1 ); */
+      /* width: 10px; */
+    /* height: 10px; */
+/* } */
+/* .try_banner_slider_inner_wrapper .carousel-inner .carousel-indicators li:first-child { */
+  /* margin-top: 0; */
+/* } */
+.try_banner_slider_inner_wrapper .carousel-nevigation{
 	position:absolute;
-	top:45%;
+	top:50%;
 	float:left;
 	width:100%;	
 	display:block !important;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .prev{
+.try_banner_slider_inner_wrapper .carousel-nevigation > .prev{
 	left:-138px;
 	position:absolute;
 	width:50px;
@@ -682,7 +746,7 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .next{
+.try_banner_slider_inner_wrapper .carousel-nevigation > .next{
 	right:-138px;
 	position:absolute;
 	width:50px;
@@ -698,28 +762,10 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-#clockdiv > div, #clockdiv2 > div, #clockdiv3 > div, #clockdiv4 > div, #clockdiv5 > div{
-	position:relative;
-}
-#clockdiv > div:after, #clockdiv2 > div:after, #clockdiv3 > div:after, #clockdiv4 > div:after, #clockdiv5 > div:after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    right: -14px;
-    background-image: url(../images/header/timerdot.png);
-    height: 30px;
-    width: 7px;
-    background-repeat: no-repeat;
-    margin-top: -30px;
-}
-#clockdiv > div:last-child:after, #clockdiv2 > div:last-child:after, #clockdiv3 > div:last-child:after, #clockdiv4 > div:last-child:after, #clockdiv5 > div:last-child:after{
-	display:none;
-}
-
-.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .prev i:before,.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .next i:before{
+.try_banner_slider_inner_wrapper .carousel-nevigation > .prev i:before,.try_banner_slider_inner_wrapper .carousel-nevigation > .next i:before{
 	font-size:40px;
 }
-.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .prev:hover,.RajuElectronics_banner_slider_inner_wrapper .carousel-nevigation > .next:hover{
+.try_banner_slider_inner_wrapper .carousel-nevigation > .prev:hover,.try_banner_slider_inner_wrapper .carousel-nevigation > .next:hover{
 	background:transparent;
 	color:#ffffff;
 	    -webkit-transition: all 0.5s;
@@ -728,7 +774,7 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_banner_slider_inner_wrapper:hover .carousel-nevigation > .prev{
+.try_banner_slider_inner_wrapper:hover .carousel-nevigation > .prev{
 	left:0;
 	    -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -736,7 +782,7 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_banner_slider_inner_wrapper:hover .carousel-nevigation > .next{
+.try_banner_slider_inner_wrapper:hover .carousel-nevigation > .next{
 	right:20px;
 	    -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -744,22 +790,22 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 } 
-.RajuElectronics_slider_banner_cont h3{
+.try_slider_banner_cont h3{
 	font-size:20px;
 	color:#ffffff;
 	animation-delay: 1.3s;
 }
-.RajuElectronics_slider_banner_cont h2{
+.try_slider_banner_cont h2{
 	font-size:46px;
 	color:#ffffff;
 	padding-top:20px;
 	padding-bottom:20px;
 	animation-delay: 1.5s;
 }
-.RajuElectronics_slider_banner_cont ul{
+.try_slider_banner_cont ul{
 	animation-delay: 1.7s;
 }
-.RajuElectronics_slider_banner_cont li{
+.try_slider_banner_cont li{
 	font-size:20px;
 	color:#ffffff;
 	font-family: 'Poppins';
@@ -768,7 +814,7 @@ width:100%;
     width: 100%;
 	font-weight:200;
 }
-.RajuElectronics_slider_banner_cont li .RajuElectronics_banner_detail_right_part:after{
+.try_slider_banner_cont li .try_banner_detail_right_part:after{
 	content:':';
 	position:absolute;
 	        left: -40px;
@@ -776,16 +822,16 @@ width:100%;
     top: 0px;
 
 }
-.RajuElectronics_slider_banner_cont li .RajuElectronics_banner_detail_right_part{
+.try_slider_banner_cont li .try_banner_detail_right_part{
 	position:relative;
 	float:left;
 	width:60%;
 }
-.RajuElectronics_slider_banner_cont li .RajuElectronics_banner_detail_left_part{
+.try_slider_banner_cont li .try_banner_detail_left_part{
 	float:left;
 	width:40%;
 }
-.RajuElectronics_slider_banner_cont p{
+.try_slider_banner_cont p{
 	font-size:30px;
 	font-weight:700;
 	color:#ffffff;
@@ -794,19 +840,18 @@ width:100%;
 	width:100%;
 	animation-delay: 1.9s;
 }	
-.RajuElectronics_slider_banner_cont a{
+.try_slider_banner_cont a{
 	    color: #000000;
     width: 170px;
     height: 50px;
     text-align: center;
-    line-height: 45px;
+    line-height: 50px;
     float: left;
     background: #ffffff;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     border-radius: 50px;
 	margin-top:40px;
-	border:2px solid transparent;
 	animation-delay: 2.1s;
 	-webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
@@ -814,8 +859,8 @@ width:100%;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-.RajuElectronics_slider_banner_cont a:hover{
-	border:2px solid #ffffff;
+.try_slider_banner_cont a:hover{
+	border:1px solid #ffffff;
 	color:#ffffff;
 	background:transparent;
 	-webkit-transition: all 0.5s;
@@ -2301,6 +2346,10 @@ width:100%;
 }
 
 @media (max-width : 479px) {
+	.RajuElectronics_top_login_wrapper li:last-child a {
+		width: 170px;
+		font-size: 12px;
+	}
   .vedio_wrap .post-thumbnail{
     float: none;
   }
